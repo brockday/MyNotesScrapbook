@@ -1,0 +1,2 @@
+rootProject.name='MyNotesScrapbook'
+include ':app'
